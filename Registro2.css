@@ -1,0 +1,74 @@
+fieldset {
+background:#f2f2e6; 
+padding:5px; 
+border-color:#fff #666661 #666661 #fff; 
+border-radius:10px;
+margin:20px auto; 
+width:880px;
+}
+
+legend {
+background:#444444; 
+color:#FFFFFF; 
+font:17px Arial, Helvetica, sans-serif; 
+padding:4px; 
+margin:3px 3px 10px 3px; 
+border:1px solid #009EEA; 
+height:25px;
+width:200px;
+text-align:center;
+}
+
+label{
+color:#333333;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+float:right;
+}
+
+dt{
+float:left; 
+text-align:right; 
+line-height:20px;
+margin:0 10px 10px 0;}
+ 
+dd {
+float:left;
+line-height:20px; 
+margin:0 0 10px 0;}
+
+dl {
+clear:both;}
+
+.submit{
+background:#484848; 
+color:#FFFFFF; 
+font:13px Arial, Helvetica, sans-serif;      
+border-radius:5px;;
+border-color:#fff #666661 #666661 #fff; 
+border-style:solid;
+border-width:1px;
+cursor: pointer;
+display:inline-block;
+font-weight: bold;
+padding: 4px 6px 4px;
+text-align: center;
+text-decoration: none;
+margin:3px; 
+width:85px;
+height:33px;	
+}
+
+.cajas 
+{
+background:#CCCCCC;
+border:1px solid #000000;
+color:#000000;
+cursor:pointer;
+font-family:"Maiandra GD";
+font-size:14px;
+margin:10px;
+padding:5px;
+width:90px;
+height:30px;
+}
