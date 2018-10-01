@@ -95,7 +95,7 @@ $(document).ready(function()
   <td width="100"><li><strong>Cuenta</strong>
     <ul id="lista1">
       <li> <a href="" >Noticias</a></li>
-      <li> <a href="Inicio.php">Cerrar Sesion</a></li>
+      <li> <a href="index.php">Cerrar Sesion</a></li>
     </ul>
   </li>  </td>
 	   

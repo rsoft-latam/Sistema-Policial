@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-$cn=new PDO('mysql:host=localhost;dbname=sistemapolicial','root','');
+$cn=new PDO('mysql:host=localhost;dbname=sistema_policial','root','');
 /*if( $cn && $bd )
 {echo "<script>alert ('CONEXION EXITOSA');</script>";}
 else

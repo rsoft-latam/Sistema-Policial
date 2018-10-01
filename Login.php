@@ -29,7 +29,7 @@ include("conexion.php");
 	}
 	else
 	{
-	header('Location: Inicio.php');
+	header('Location: index.php');
 	}	
 
 ?>
